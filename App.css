@@ -1,0 +1,18 @@
+.body {
+  background-color:aliceblue;
+}
+.App {
+  display:block;
+  position:absolute;
+  background-color:aliceblue;
+
+}
+.file, .button{
+  background-color: rgb(85, 83, 83);
+  color:rgb(222, 211, 231);
+  border: 2px solid rgb(190, 190, 197);
+  border-radius: 15%;
+  width: 70px;
+
+}
+
